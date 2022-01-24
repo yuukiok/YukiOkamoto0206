@@ -1,4 +1,4 @@
-## [Yuki Okamoto](https://yukiok.com){:target="_blank"} from Japan🇯🇵
+## <p><a href="https://yukiok.com" target="_blank">Yuki Okamoto</a> from Japan🇯🇵</p>
 
 🏫 I’m currently learning Computer Science at California State University, Monterey Bay  
 🏢 I have work experiences as a software engineer (Internship)
