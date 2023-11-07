@@ -1,7 +1,7 @@
 ## <p><a href="https://yukiok.com" target="_blank" rel="noopener noreferrer">Yuki Okamoto</a> from Japan🇯🇵</p>
 
-🏫 I’m currently learning Computer Science at California State University, Monterey Bay.  
-🏢 Software Engineer Intern: Citi, ex-WealthPark, ex-CyberAgent, ex-Rakuten, ex-dKomplex, and ex-Crunchtimer.
+🏫 I’m currently studying Computer Science at California State University, Monterey Bay.  
+🏢 Software Engineer Intern: ex-Citi, ex-WealthPark, ex-CyberAgent, ex-Rakuten, and ex-Crunchtimer.
 💻 [LinkedIn](https://www.linkedin.com/in/yuki-okamoto-ca/)
 
 <p align="left"> 
