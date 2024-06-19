@@ -1,6 +1,6 @@
 ## <p>Yuki Okamoto from Japan🇯🇵</p>
 
-<div>🏫 Incoming SA @ AWS.</div>
+<div>🏫 Solutions Architect @ AWS.</div>
 <div>🏢 Software Engineer Intern: ex-Citi, ex-WealthPark, ex-CyberAgent, ex-Rakuten, and ex-Crunchtimer.</div>
 
 💻 [LinkedIn](https://www.linkedin.com/in/yuki-okamoto-ca/)
